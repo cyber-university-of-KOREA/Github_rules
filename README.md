@@ -16,7 +16,8 @@
 - Modifications to the source code must be made through Pull Requests, followed by discussion and then merging.
 
 - The following are the BRENCH generation rules
-  
+
+- Questions or review requests regarding the code should be posted on the repository's Discussions feature rather than through individual contact
 ___
 
 BRENCH name|Current Status|example|
