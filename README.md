@@ -19,4 +19,8 @@ BRENCH name|Current Status|example|
 
 ___
 
+- The basic tool uses vscode, but it can be different depending on the user's choice
 
+- Contact the operator for the creation of a separate repository
+
+- Graduation thesis projects and team projects at school can create repositories upon request
