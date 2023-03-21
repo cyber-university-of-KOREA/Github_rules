@@ -1,11 +1,19 @@
 # Github_rules
-GitHub Interuse Rules
+ GitHub Usage Guidelines
 
 - This repository is the official GitHub of the Department of Software Engineering at Korea Cyber University.
 
 - If you upload content or unnecessary materials that are not related to your studies, they may be deleted without warning.
 
 - "If you have any questions about using GitHub, you can contact the GitHub team of the Department of Software Engineering for assistance."
+
+- The basic tool uses vscode, but it can be different depending on the user's choice
+
+- Contact the operator for the creation of a separate repository
+
+- Graduation thesis projects and team projects at school can create repositories upon request
+
+- Modifications to the source code must be made through Pull Requests, followed by discussion and then merging.
 
 - The following are the BRENCH generation rules
   
@@ -18,9 +26,3 @@ BRENCH name|Current Status|example|
 |hot-fix|오류식별|hot-fix/무슨오류|
 
 ___
-
-- The basic tool uses vscode, but it can be different depending on the user's choice
-
-- Contact the operator for the creation of a separate repository
-
-- Graduation thesis projects and team projects at school can create repositories upon request
