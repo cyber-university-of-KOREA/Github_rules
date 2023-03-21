@@ -5,7 +5,7 @@ GitHub Interuse Rules
 
 - If you upload content or unnecessary materials that are not related to your studies, they may be deleted without warning.
 
-- If you have any questions about the use of GitHub, you can contact the department's management.
+- "If you have any questions about using GitHub, you can contact the GitHub team of the Department of Software Engineering for assistance."
 
 - The following are the BRENCH generation rules
   
