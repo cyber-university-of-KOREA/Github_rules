@@ -1,4 +1,7 @@
 # Github_rules
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyber-university-of-KOREA
+)](https://hits.seeyoufarm.com)   <-- Today's git visitors
+
  GitHub Usage Guidelines
 
 - This repository is the official GitHub of the Department of Software Engineering at Korea Cyber University.
